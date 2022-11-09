@@ -14,7 +14,7 @@ import numpy as np
 import requests
 import datetime
 import time
-import plost
+#import plost
 from shapely.geometry import Point
 import matplotlib.pyplot as plt
 from scipy import stats
