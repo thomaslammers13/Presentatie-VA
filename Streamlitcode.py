@@ -10,7 +10,7 @@ import numpy as np
 #import plotly as plt
 #import plotly.express as px
 #import plotly.graph_objects as go
-from plotly.subplots import make_subplots
+#from plotly.subplots import make_subplots
 import requests
 import datetime
 import time
