@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # In[1]:
+!pip install plotly
+
 
 
 import streamlit as st
