@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-!pip install plotly
+pip install plotly
 
 
 
