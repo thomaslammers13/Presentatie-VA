@@ -2,14 +2,14 @@
 # coding: utf-8
 
 # In[1]:
-pip install plotly
+
 
 
 
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly as plt
+#import plotly as plt
 #import plotly.express as px
 #import plotly.graph_objects as go
 #from plotly.subplots import make_subplots
