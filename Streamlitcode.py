@@ -18,10 +18,9 @@ import datetime
 import time
 #import plost
 #from shapely.geometry import Point
-#import matplotlib.pyplot as plt
-#from scipy import stats
-#import matplotlib.pyplot as plt
-#from scipy import stats
+import matplotlib.pyplot as plt
+from scipy import stats
+
 
 pages = st.sidebar.radio('Menu', options=['Home','Verbruik Bestelwagens', 'Verbruik Vrachtwagens', 'Energieverbruik', "Voorspelling elektrische auto's", "Kaart WFO", "Kaart Schiphol Trade Centre"])
 
