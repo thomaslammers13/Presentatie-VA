@@ -18,7 +18,7 @@ import datetime
 import time
 #import plost
 #from shapely.geometry import Point
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from scipy import stats
 
 
